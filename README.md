@@ -1,14 +1,39 @@
-<h1 align="center">Hi 👋, I'm Radha Sinha</h1>
-<h3 align="center">Aspiring Data Analyst and Java Enthusiast</h3>
+# 👋 Hi, I’m Radha Sinha  
 
-- 🔭 I’m currently working on **PowerBI**
-- 🌱 I’m currently learning **Excel**
-- 📫 How to reach me **radhasinha38@gmail.com**
-<p align="left">
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+🎓 I’m a **BCA Final Year Student** passionate about **Web Development** and **Data Visualization**.  
+💻 I enjoy building projects that combine creativity with problem-solving.  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=radhasinha1011&show_icons=true&locale=en&layout=compact" alt="radhasinha1011" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=radhasinha1011&show_icons=true&locale=en" alt="radhasinha1011" /></p>
+## 🚀 About Me  
+- 🔭 Currently working on: **Web Development & Data Visualization projects**  
+- 🌱 Learning: **React, Advanced SQL, and Data Science basics**  
+- 🏆 Achievements:  
+  - 🥇 1st Prize in **Debate Competition**  
+  - 🥈 2nd Prize in **Painting Competition**  
+- 🎯 Career Goals: Becoming a **Full Stack Developer** & **Data Scientist**  
+
+---
+
+## 🛠️ Tech Stack  
+**Languages:** Java, Python, C, SQL  
+**Tools:** Power BI, Excel, PowerPoint  
+**Web Development:** HTML, CSS, JavaScript  
+
+---
+
+## 📈 GitHub Stats  
+
+![Radha's GitHub stats](https://github.com/radhasinha1011)  
+ 
+
+---
+
+## 🌐 Connect with Me  
+- 💼 [LinkedIn](https://in.linkedin.com/in/radha-sinha-350166329)  
+- 📧 Email: radhasinha38@gmail.com  
+
+---
+
+✨ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.* ✨  
 
